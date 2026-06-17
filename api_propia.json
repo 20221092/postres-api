@@ -1,0 +1,46 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Pastel de chocolate",
+      "precio": 350,
+      "descripcion": "Pastel suave de chocolate con cobertura de ganache y decoración artesanal.",
+      "imagen": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "id": 2,
+      "nombre": "Pastel de vainilla",
+      "precio": 320,
+      "descripcion": "Pastel esponjoso de vainilla con betún de mantequilla y relleno cremoso.",
+      "imagen": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "id": 3,
+      "nombre": "Tres leches",
+      "precio": 380,
+      "descripcion": "Pastel tradicional bañado en mezcla de tres leches, decorado con crema batida.",
+      "imagen": "https://images.unsplash.com/photo-1488477181946-6428a0291777?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "id": 4,
+      "nombre": "Cheesecake",
+      "precio": 400,
+      "descripcion": "Cheesecake cremoso con base de galleta y cobertura de frutos rojos.",
+      "imagen": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "id": 5,
+      "nombre": "Cupcakes",
+      "precio": 45,
+      "descripcion": "Cupcakes decorados con betún artesanal, ideales para eventos y regalos.",
+      "imagen": "https://images.unsplash.com/photo-1587668178277-295251f900ce?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "id": 6,
+      "nombre": "Flan napolitano",
+      "precio": 180,
+      "descripcion": "Flan cremoso con caramelo, preparado de forma tradicional.",
+      "imagen": "https://images.unsplash.com/photo-1551024506-0bccd828d307?q=80&w=1200&auto=format&fit=crop"
+    }
+  ]
+}
