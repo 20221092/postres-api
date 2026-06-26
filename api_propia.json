@@ -88,7 +88,7 @@
       "id": 5,
       "nombre": "Cupcakes",
       "precio": 45,
-      "descripcion": "Cupcakes decorados con betún artesanal, ideales para eventos y regalos.",
+      "descripcion": "Cupcakes decorados con betún artesanal, ideales para eventos, regalos y mesas de postres.",
       "imagen": "https://images.unsplash.com/photo-1587668178277-295251f900ce?q=80&w=1200&auto=format&fit=crop",
       "tamanos": [
         {
@@ -123,6 +123,132 @@
         {
           "nombre": "grande",
           "precio": 260
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "Gelatina",
+      "precio": 90,
+      "descripcion": "Gelatina de sabores con decoración colorida, ideal para fiestas y reuniones familiares.",
+      "imagen": "https://images.unsplash.com/photo-1551024506-0bccd828d307?q=80&w=1200&auto=format&fit=crop",
+      "tamanos": [
+        {
+          "nombre": "chico",
+          "precio": 60
+        },
+        {
+          "nombre": "mediano",
+          "precio": 90
+        },
+        {
+          "nombre": "grande",
+          "precio": 150
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "Donas",
+      "precio": 30,
+      "descripcion": "Donas suaves y esponjosas con glaseado dulce y diferentes decoraciones.",
+      "imagen": "https://images.unsplash.com/photo-1551024601-bec78aea704b?q=80&w=1200&auto=format&fit=crop",
+      "tamanos": [
+        {
+          "nombre": "chico",
+          "precio": 25
+        },
+        {
+          "nombre": "mediano",
+          "precio": 30
+        },
+        {
+          "nombre": "grande",
+          "precio": 40
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "Brownies",
+      "precio": 55,
+      "descripcion": "Brownies de chocolate con textura suave por dentro y cubierta ligeramente crujiente.",
+      "imagen": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?q=80&w=1200&auto=format&fit=crop",
+      "tamanos": [
+        {
+          "nombre": "chico",
+          "precio": 40
+        },
+        {
+          "nombre": "mediano",
+          "precio": 55
+        },
+        {
+          "nombre": "grande",
+          "precio": 75
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "nombre": "Pastel de fresas",
+      "precio": 370,
+      "descripcion": "Pastel suave con relleno cremoso, fresas naturales y decoración artesanal.",
+      "imagen": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?q=80&w=1200&auto=format&fit=crop",
+      "tamanos": [
+        {
+          "nombre": "chico",
+          "precio": 270
+        },
+        {
+          "nombre": "mediano",
+          "precio": 370
+        },
+        {
+          "nombre": "grande",
+          "precio": 500
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "nombre": "Galletas de chocolate",
+      "precio": 25,
+      "descripcion": "Galletas crujientes con chispas de chocolate, perfectas para acompañar café o leche.",
+      "imagen": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?q=80&w=1200&auto=format&fit=crop",
+      "tamanos": [
+        {
+          "nombre": "chico",
+          "precio": 20
+        },
+        {
+          "nombre": "mediano",
+          "precio": 25
+        },
+        {
+          "nombre": "grande",
+          "precio": 35
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "nombre": "Pay de limon",
+      "precio": 280,
+      "descripcion": "Pay de limón con base de galleta, relleno cremoso y sabor fresco.",
+      "imagen": "https://images.unsplash.com/photo-1519915028121-7d3463d20b13?q=80&w=1200&auto=format&fit=crop",
+      "tamanos": [
+        {
+          "nombre": "chico",
+          "precio": 200
+        },
+        {
+          "nombre": "mediano",
+          "precio": 280
+        },
+        {
+          "nombre": "grande",
+          "precio": 390
         }
       ]
     }
